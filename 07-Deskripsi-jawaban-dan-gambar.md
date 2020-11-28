@@ -16,13 +16,14 @@
    ![]()
 4. innisialiasi git repo
    - heroku login
+   ![]()
    - heroku create gwit-deploy
-    ![]()
+   ![]()
 5. Kemudian deploy projek 
    - git add .
    - git commit -m “deploy project to do app”
    - git push heroku master
-    ![]()
+   ![]()
 6. Project dapat dibuka dengan perintah
    - heroku open
-    ![]() 
+   ![]() 
