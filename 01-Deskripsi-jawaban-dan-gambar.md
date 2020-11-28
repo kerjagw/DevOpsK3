@@ -8,4 +8,4 @@ Sebuah tanggung jawab dalam membangun infrastuktur yang terotomatisasi, terinteg
 **DevOps** sangat penting dalam suatu perusahaan, karena ia merupakan solusi dalam skala besar untuk berbagai permasalahan kompleks meliputi pengembangan perangkat lunak mulai dari development hingga operation suatu project
 
 ## Flow DevOps
-![1.FlowDevOps](https://drive.google.com/drive/folders/1IMjqtc4Bri1DXP_WkT7FbotDLTh11BUD?usp=sharing)
+![1.FlowDevOps](https://github.com/kerjagw/DevOpsK3/blob/main/Folder-images-jawaban/01.png)
