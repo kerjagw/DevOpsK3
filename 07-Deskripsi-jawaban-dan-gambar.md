@@ -32,4 +32,5 @@
 
 6. Project dapat dibuka dengan perintah
    - heroku open
+
    ![heroku open](https://github.com/kerjagw/DevOpsK3/blob/main/Folder-images-jawaban/07-herokuopen.png) 

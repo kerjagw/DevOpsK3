@@ -11,7 +11,7 @@ Menempatkan jawaban pada repository di github
 
 ## Deskripsi perintah Git
 1. git clone = mengclone suatu repository ke lokal
-   ![git clone](https://github.com/kerjagw/DevOpsK3/blob/main/Folder-images-jawaban/05-cd.png)
+   ![git clone](https://github.com/kerjagw/DevOpsK3/blob/main/Folder-images-jawaban/05-gitclone.png)
 2. git status = menampilkan status directory
    ![git status](https://github.com/kerjagw/DevOpsK3/blob/main/Folder-images-jawaban/05-gitstatus.png)
 3. cd = menempatkan directory 
