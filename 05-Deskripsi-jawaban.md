@@ -9,5 +9,11 @@
 ## Aplikasi Git untuk menjawab soal
 Menempatkan jawaban pada repository di github 
 
-## Deskripsi perintah Step by Step
-1. Buat repository di Github 
+## Deskripsi perintah Git
+1. git clone = mengclone suatu repository ke lokal
+2. git status = menampilkan status directory
+3. cd = menempatkan directory 
+4. ls = menampilkan isi directory
+5. git add . = menambahkan semua perubahan baru pada repository
+6. git commit = melakukan commit setiap ada perubahan
+7. git push = melakukan push request
